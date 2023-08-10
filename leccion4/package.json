@@ -1,0 +1,14 @@
+{
+   "name": "leccion4",
+   "version": "1.0.0",
+   "description": "Leccion 4 de curso de Mastermind.",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "moment": "^2.29.4"
+   }
+}
